@@ -178,3 +178,6 @@ vivado*.backup.log
 
 # ======================================== 临时
 /Study/Mips/Riscv/
+/Vivado_Test
+/lxl/ACX720-V3
+Claude_Change.md
